@@ -1,2 +1,2 @@
-# jhfranks.github.io
-Personal website
+# skylervillain.github.io
+Website for artist Skyler Villain
